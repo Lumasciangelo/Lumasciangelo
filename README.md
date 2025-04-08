@@ -1,8 +1,9 @@
 <h1 align="center">Soy Lucia Masciangelo</h1>
 
-🎓 Estudiante de la **Tecnicatura Universitaria en Inteligencia Artificial** en la Universidad Nacional de Rosario (UNR)  
-🧠 Apasionada por la visión por computadora, el análisis de datos y el aprendizaje automático  
-🌱 Siempre con ganas de aprender y crear soluciones inteligentes y eficientes 
+* 🎓 Estudiante de la **Tecnicatura Universitaria en Inteligencia Artificial** en la Universidad Nacional de Rosario (UNR)  
+* 🧠 Apasionada por la visión por computadora, el análisis de datos y el aprendizaje automático  
+* 🌱 Siempre con ganas de aprender y crear soluciones inteligentes y eficientes 
+
 💻 En este perfil vas a encontrar varios proyectos que desarrollé a lo largo de la carrera
 
 ---
